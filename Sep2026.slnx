@@ -2,8 +2,6 @@
   <Folder Name="/Solution Items/">
     <File Path="README.md" />
   </Folder>
-  <Project Path="Sep2026.HnitThitMayKyaw.SupermarketPos.Database/Sep2026.HnitThitMayKyaw.SupermarketPos.Database.csproj" />
-  <Project Path="Sep2026.HnitThitMayKyaw.SupermarketPos.WebApi/Sep2026.HnitThitMayKyaw.SupermarketPos.WebApi.csproj" />
   <Project Path="Sep2026.AtmConsoleApp/Sep2026.AtmConsoleApp.csproj" Id="2b91e3e7-c54a-4eff-8e4e-b95c08e37aaf" />
   <Project Path="Sep2026.AyeChan.ExpenseTracker.ConsoleApp/Sep2026.AyeChan.ExpenseTracker.ConsoleApp.csproj" Id="f2f74ee5-69d7-4f5f-9655-cef5329daa8b" />
   <Project Path="Sep2026.AyeChan.ExpenseTracker.Database/Sep2026.AyeChan.ExpenseTracker.Database.csproj" Id="4d52ac28-7e6a-48e4-bc53-c6e644464ac5" />
@@ -16,12 +14,15 @@
   <Project Path="Sep2026.ConsoleApp5/Sep2026.ConsoleApp5.csproj" Id="21b6e168-8f94-4a9b-bb5e-61f9e1c4f42f" />
   <Project Path="Sep2026.GameShopWebApi.Database/Sep2026.GameShopWebApi.Database.csproj" Id="052913a8-3516-455a-8548-fce07357e122" />
   <Project Path="Sep2026.GameShopWebApi/Sep2026.GameShopWebApi.csproj" Id="f74008ca-4a24-42fe-9bd3-1eaacd44c938" />
+  <Project Path="Sep2026.HnitThitMayKyaw.SupermarketPos.Database/Sep2026.HnitThitMayKyaw.SupermarketPos.Database.csproj" />
+  <Project Path="Sep2026.HnitThitMayKyaw.SupermarketPos.WebApi/Sep2026.HnitThitMayKyaw.SupermarketPos.WebApi.csproj" />
   <Project Path="Sep2026.Panyooneain_Movie Watchlist System/Sep2026.Panyooneain_Movie Watchlist System.csproj" />
   <Project Path="Sep2026.ProjectIdea1/Sep2026.ProjectIdea1.csproj" Id="46c2f53f-ebcd-4621-8f14-f9c198779ffb" />
+  <Project Path="Sep2026.ProjectIdea2/Sep2026.ProjectIdea2.csproj" Id="e911eb27-8b72-4c6e-aee3-0358827524d8" />
+  <Project Path="Sep2026.SwanHtetSoe.RecipeAndPantryFinder.database/Sep2026.SwanHtetSoe.RecipeAndPantryFinder.database.csproj" />
+  <Project Path="Sep2026.SwanHtetSoe.RecipeAndPantryFinder/Sep2026.SwanHtetSoe.RecipeAndPantryFinder.csproj" />
   <Project Path="Sep2026.WebApi/Sep2026.WebApi.csproj" Id="f86b5941-3b5b-4788-b37a-a959feec321b" />
   <Project Path="Sep2026.WinFormsApp/Sep2026.WinFormsApp.csproj" Id="05a68eec-1614-43ae-9e5c-d413e7602178" />
   <Project Path="Sep2026.ZodiacHoroscope.Database/Sep2026.ZodiacHoroscope.Database.csproj" />
   <Project Path="Sep2026.ZodiacHoroscopeWebApi/Sep2026.ZodiacHoroscopeWebApi.csproj" />
-  <Project Path="Sep2026.SwanHtetSoe.RecipeAndPantryFinder.database/Sep2026.SwanHtetSoe.RecipeAndPantryFinder.database.csproj" />
-  <Project Path="Sep2026.SwanHtetSoe.RecipeAndPantryFinder/Sep2026.SwanHtetSoe.RecipeAndPantryFinder.csproj" />
 </Solution>

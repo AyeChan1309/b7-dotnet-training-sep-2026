@@ -4,6 +4,13 @@ EFCore (ORM)
 	- Model First
 	- Code First
 	- Database First - split project 
+Console App
+Windows Forms (Read)
+ASP.NET Core Web API (RESTful API) + Postman + Swagger
+HttpClient, RestSharp, Refit
+Async Await
+Dependency Injection
+
 
 
 dotnet ef dbcontext scaffold "Server=.;Database=Sep2026Db;Integrated Security=True;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer --output-dir AppDbContextModels --context AppDbContext --no-onconfiguring --force
