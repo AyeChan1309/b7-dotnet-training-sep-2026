@@ -325,3 +325,29 @@ Content-Type: application/json
 
 ### Delete - not found (404)
 DELETE {{Sep2026.AyeChan.ExpenseTracker.WebApi_HostAddress}}/api/budgets/999
+
+### ==== Reports ====
+
+### Monthly report - Nov 2026 (200)
+GET {{Sep2026.AyeChan.ExpenseTracker.WebApi_HostAddress}}/api/reports/monthly?year=2026&month=11
+Accept: application/json
+
+### Monthly report - Oct 2026 (200)
+GET {{Sep2026.AyeChan.ExpenseTracker.WebApi_HostAddress}}/api/reports/monthly?year=2026&month=10
+Accept: application/json
+
+### Monthly report - Dec 2026, Transport budget only (200)
+GET {{Sep2026.AyeChan.ExpenseTracker.WebApi_HostAddress}}/api/reports/monthly?year=2026&month=12
+Accept: application/json
+
+### Monthly report - no data (200, empty items)
+GET {{Sep2026.AyeChan.ExpenseTracker.WebApi_HostAddress}}/api/reports/monthly?year=2026&month=1
+Accept: application/json
+
+### Monthly report - invalid month (400)
+GET {{Sep2026.AyeChan.ExpenseTracker.WebApi_HostAddress}}/api/reports/monthly?year=2026&month=13
+Accept: application/json
+
+### Monthly report - missing month (400)
+GET {{Sep2026.AyeChan.ExpenseTracker.WebApi_HostAddress}}/api/reports/monthly?year=2026
+Accept: application/json
